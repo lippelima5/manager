@@ -1,0 +1,3 @@
+# .electronignore
+*
+!out
